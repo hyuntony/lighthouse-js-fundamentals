@@ -5,3 +5,4 @@ console.log(iceCreamFlavours);
 console.log(iceCreamFlavours[0]);
 console.log(iceCreamFlavours[5]);
 console.log(iceCreamFlavours.length);
+//comment
